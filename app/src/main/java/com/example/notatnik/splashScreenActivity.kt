@@ -1,16 +1,17 @@
-package com.example.notatnik
+package com.example.notatnikwsb
 
 import android.content.Intent
-import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import com.example.notatnik.MainActivity
+import com.example.notatnik.R
 
 class splashScreenActivity : AppCompatActivity() {
 
 
-    private val splashTimeOut: Long = 5000 // 5 sec
+    private val splashTimeOut: Long = 1000 // 5 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
