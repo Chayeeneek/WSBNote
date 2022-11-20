@@ -1,6 +1,6 @@
-Aplikacja Notatnik
+Aplikacja: Notatnik
 
-Robili:
+Wykonali:
 
 Chay Kośmicka - podstawa notatnika
 Maciej Woźniak - splash screen
